@@ -1,0 +1,22 @@
+/***RENKLERLE İLGİLİ */
+
+h2 {
+    color: red;
+    background-color: #00FFFF;
+    font-style: italic;
+    font-size:30px;
+}
+
+/*****ID VEREREK****/
+
+#TrackName{
+    font-size: 45px;
+    color:blue;
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 300px;
+    padding: 25px;
+    margin: 15px;
+    float: left;
+
+}
